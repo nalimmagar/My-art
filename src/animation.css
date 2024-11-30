@@ -1,0 +1,336 @@
+@keyframes animation-18 {
+  from {
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    border-radius: 16px 16px 16px 16px;
+    background: #a41045ff;
+  }
+  to {
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    border-radius: 16px 16px 16px 16px;
+    background: #892066ff;
+  }
+}
+.animationClass-18 {
+  animation: animation-18 0.001s linear 0s normal forwards;
+}
+@keyframes animation-pdiv-18 {
+  from {
+    width: var(--custom-width);
+    height: calc(0.38 * var(--custom-width));
+  }
+  to {
+    width: calc(188 * var(--ratio));
+    height: calc(71 * var(--ratio));
+  }
+}
+
+.parent-animation-18 {
+  animation: animation-pdiv-18 0.001s linear 0s normal forwards;
+}
+@keyframes animationBack-112 {
+  from {
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    border-radius: 16px 16px 16px 16px;
+    background: #892066ff;
+  }
+  to {
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    border-radius: 16px 16px 16px 16px;
+    background: #a41045ff;
+  }
+}
+.animationClassBack-112 {
+  animation: animationBack-112 0.001s linear 0s normal forwards;
+}
+@keyframes animation-pdiv-112 {
+  from {
+    width: var(--custom-width);
+    height: calc(0.38 * var(--custom-width));
+  }
+  to {
+    width: calc(188px * var(--ratio));
+    height: calc(71 * var(--ratio));
+  }
+}
+
+.parent-animation-rev-112 {
+  animation: animation-pdiv-112 0.001s linear 0s normal forwards;
+}
+@keyframes animation-19 {
+  from {
+    width: 36.17%;
+    height: 38.03%;
+    top: 30.99%;
+    left: 31.91%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    text-align: left;
+    line-height: 0px;
+  }
+  to {
+    width: 36.17%;
+    height: 38.03%;
+    top: 30.99%;
+    left: 31.91%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    text-align: left;
+    line-height: 0px;
+  }
+}
+.animationClass-19 {
+  animation: animation-19 0.001s linear 0s normal forwards;
+}
+@keyframes animation-19-19-0 {
+  from {
+    font-size: calc(18 * var(--ratio));
+
+    line-height: calc(27 * var(--ratio));
+
+    font-family: Inter;
+    font-weight: 600;
+
+    text-decoration: none;
+    text-transform: capitalize;
+    white-space: pre-wrap;
+    color: #ffffffff;
+  }
+  to {
+    font-size: calc(18 * var(--ratio));
+
+    line-height: calc(27 * var(--ratio));
+
+    font-family: Inter;
+    font-weight: 600;
+
+    text-decoration: none;
+    text-transform: capitalize;
+    white-space: pre-wrap;
+    color: #ffffffff;
+  }
+}
+
+.animationClass-19-19-0 {
+  animation: animation-19-19-0 0.001s linear 0s normal forwards;
+}
+@keyframes animationBack-113 {
+  from {
+    width: 36.17%;
+    height: 38.03%;
+    top: 30.99%;
+    left: 31.91%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    text-align: left;
+    line-height: 0px;
+  }
+  to {
+    width: 36.17%;
+    height: 38.03%;
+    top: 30.99%;
+    left: 31.91%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    text-align: left;
+    line-height: 0px;
+  }
+}
+.animationClassBack-113 {
+  animation: animationBack-113 0.001s linear 0s normal forwards;
+}
+@keyframes animation-18 {
+  from {
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    border-radius: 16px 16px 16px 16px;
+    background: #a41045ff;
+  }
+  to {
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    border-radius: 16px 16px 16px 16px;
+    background: #892066ff;
+  }
+}
+.animationClass-18 {
+  animation: animation-18 0.001s linear 0s normal forwards;
+}
+@keyframes animation-pdiv-18 {
+  from {
+    width: var(--custom-width);
+    height: calc(0.38 * var(--custom-width));
+  }
+  to {
+    width: calc(188 * var(--ratio));
+    height: calc(71 * var(--ratio));
+  }
+}
+
+.parent-animation-18 {
+  animation: animation-pdiv-18 0.001s linear 0s normal forwards;
+}
+@keyframes animationBack-112 {
+  from {
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    border-radius: 16px 16px 16px 16px;
+    background: #892066ff;
+  }
+  to {
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    border-radius: 16px 16px 16px 16px;
+    background: #a41045ff;
+  }
+}
+.animationClassBack-112 {
+  animation: animationBack-112 0.001s linear 0s normal forwards;
+}
+@keyframes animation-pdiv-112 {
+  from {
+    width: var(--custom-width);
+    height: calc(0.38 * var(--custom-width));
+  }
+  to {
+    width: calc(188px * var(--ratio));
+    height: calc(71 * var(--ratio));
+  }
+}
+
+.parent-animation-rev-112 {
+  animation: animation-pdiv-112 0.001s linear 0s normal forwards;
+}
+@keyframes animation-19 {
+  from {
+    width: 36.17%;
+    height: 38.03%;
+    top: 30.99%;
+    left: 31.91%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    text-align: left;
+    line-height: 0px;
+  }
+  to {
+    width: 36.17%;
+    height: 38.03%;
+    top: 30.99%;
+    left: 31.91%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    text-align: left;
+    line-height: 0px;
+  }
+}
+.animationClass-19 {
+  animation: animation-19 0.001s linear 0s normal forwards;
+}
+@keyframes animation-19-19-0 {
+  from {
+    font-size: calc(18 * var(--ratio));
+
+    line-height: calc(27 * var(--ratio));
+
+    font-family: Inter;
+    font-weight: 600;
+
+    text-decoration: none;
+    text-transform: capitalize;
+    white-space: pre-wrap;
+    color: #ffffffff;
+  }
+  to {
+    font-size: calc(18 * var(--ratio));
+
+    line-height: calc(27 * var(--ratio));
+
+    font-family: Inter;
+    font-weight: 600;
+
+    text-decoration: none;
+    text-transform: capitalize;
+    white-space: pre-wrap;
+    color: #ffffffff;
+  }
+}
+
+.animationClass-19-19-0 {
+  animation: animation-19-19-0 0.001s linear 0s normal forwards;
+}
+@keyframes animationBack-113 {
+  from {
+    width: 36.17%;
+    height: 38.03%;
+    top: 30.99%;
+    left: 31.91%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    text-align: left;
+    line-height: 0px;
+  }
+  to {
+    width: 36.17%;
+    height: 38.03%;
+    top: 30.99%;
+    left: 31.91%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    text-align: left;
+    line-height: 0px;
+  }
+}
+.animationClassBack-113 {
+  animation: animationBack-113 0.001s linear 0s normal forwards;
+}
